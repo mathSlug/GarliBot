@@ -1,7 +1,7 @@
 # GarliBot
 A celebration of GarliCoin
 
-Control a servo, LEDs, and a relay, ideally in a garlic-bread robot, from your computer using Processing and Arduino
+Control a servo, LEDs, and a relay, ideally in a garlic-bread robot, from your computer using Processing and Arduino.
 
 Fun personal project to learn about Arduino serial control.
 Servo opens and closes salt and cheese dispensers.
@@ -15,15 +15,15 @@ You can use Processing or another tool to send Serial data.
 
 
 # Requires
-Processing 3
-Arduino 1.8
-Arduino Uno
-Small servo
-Cardboard
-LEDs
-Household current relay
-USB A male to USB B male cable
-Hotplate
+Processing 3 <br />
+Arduino 1.8 <br />
+Arduino Uno <br />
+Small servo <br />
+Cardboard <br />
+LEDs <br />
+Household current relay <br />
+USB A male to USB B male cable <br />
+Hotplate <br />
 
 
 # My GarliBot
