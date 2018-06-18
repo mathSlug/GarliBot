@@ -8,13 +8,13 @@ Servo opens and closes salt and cheese dispensers.
 Relay controls a hot plate.
 Requires manual bread placement.
 
-#Installation
+# Installation
 See Arduino code for which pins to use.
 I used the Arduino IDE to upload to the Arduino.
 You can use Processing or another tool to send Serial data.
 
 
-#Requires
+# Requires
 Processing 3
 Arduino 1.8
 Arduino Uno
@@ -26,7 +26,8 @@ USB A male to USB B male cable
 Hotplate
 
 
-#My GarliBot
+# My GarliBot
+
 ![Alt text](https://github.com/mathSlug/GarliBot/blob/master/lib/Aub_robot.jpg)
 ![Alt text](https://github.com/mathSlug/GarliBot/blob/master/lib/Top_view.png)
 ![Alt text](https://github.com/mathSlug/GarliBot/blob/master/lib/side_view.jpg)
