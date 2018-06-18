@@ -27,7 +27,7 @@ Hotplate
 
 
 #My GarliBot
-![Alt text](https://github.com/mathSlug/GarliBot/lib/side_view.jpg)
-![Alt text](https://github.com/mathSlug/GarliBot/lib/Top_view.png)
-![Alt text](https://github.com/mathSlug/GarliBot/lib/Aub_robot.jpg)
+![Alt text](https://github.com/mathSlug/GarliBot/blob/master/lib/Aub_robot.jpg)
+![Alt text](https://github.com/mathSlug/GarliBot/blob/master/lib/Top_view.png)
+![Alt text](https://github.com/mathSlug/GarliBot/blob/master/lib/side_view.jpg)
 
