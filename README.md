@@ -26,7 +26,7 @@ USB A male to USB B male cable <br />
 Hotplate <br />
 
 
-# My GarliBot
+# The GarliBot
 
 ![Alt text](https://github.com/mathSlug/GarliBot/blob/master/lib/Aub_robot.jpg)
 ![Alt text](https://github.com/mathSlug/GarliBot/blob/master/lib/Top_view.png)
